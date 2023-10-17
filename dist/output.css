@@ -548,10 +548,6 @@ body{
   height: 100vh;
 }
 
-.max-h-screen {
-  max-height: 100vh;
-}
-
 .items-center {
   align-items: center;
 }
