@@ -1,5 +1,10 @@
 @tailwind base;
 
+*{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
 body{
 
     background: rgb(197,174,238);
