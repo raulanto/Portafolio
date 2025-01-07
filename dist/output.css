@@ -552,12 +552,29 @@ body{
   height: 100vh;
 }
 
+.w-full {
+  width: 100%;
+}
+
+.max-w-screen-sm {
+  max-width: 640px;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
 .items-center {
   align-items: center;
 }
 
 .justify-center {
   justify-content: center;
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
 .text-center {
